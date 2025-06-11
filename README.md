@@ -60,3 +60,4 @@ Feel free to use, modify, and distribute this code freely.
 ## 🙋‍♂️ Author
 
 Made with ❤️ by [Rahul Dutta](https://github.com/imrahul16)
+[LinkedIn](https://www.linkedin.com/in/imrahul16) • 
